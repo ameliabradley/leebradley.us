@@ -1,3 +1,7 @@
+title = "Lee Bradley"
+
+description = "Adventures in programming and stuff"
+
 # The URL the site will be built for
 base_url = "https://leebradley.us"
 
@@ -22,6 +26,5 @@ theme = "hyde"
 hyde_theme = "theme-base-08"
 
 hyde_links = [
-    {url = "https://google.com", name = "Google.com"},
-    {url = "https://google.fr", name = "Google.fr"},
+    {url = "https://github.com/leebradley", name = "Github"},
 ]
